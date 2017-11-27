@@ -331,7 +331,6 @@ class Quiz extends Component{
               </label>
             </div>
           </form>
-        <p><strong>{this.props.username}</strong>, you got <strong>{this.props.answersRight}/ 20 </strong> answers right.</p>            
         </div>
       );}
   }
